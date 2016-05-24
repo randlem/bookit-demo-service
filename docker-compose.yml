@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+    php:
+        image: bookitapparch/bacon-cli:5.4
+        volumes:
+            - ./:/var/www
