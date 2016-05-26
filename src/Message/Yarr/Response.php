@@ -11,6 +11,9 @@ namespace BookIt\Service\Demo\Message\Yarr;
 
 use BookIt\Service\Demo\Message\ResponseInterface;
 
+/**
+ * This class is a concrete implementation of the ResponseInterface base.
+ */
 class Response implements ResponseInterface
 {
 

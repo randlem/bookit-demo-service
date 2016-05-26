@@ -11,6 +11,9 @@ namespace BookIt\Service\Demo\Message\Yarr;
 
 use BookIt\Service\Demo\Message\RequestInterface;
 
+/**
+ * This class is a concrete implementation of the RequestInterface base
+ */
 class Request implements RequestInterface
 {
 
